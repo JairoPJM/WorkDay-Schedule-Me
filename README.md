@@ -24,7 +24,9 @@ This is the webpage of how the scheduler works. Also added some tasks that are s
     ```md
     ![alt text](./pictures/schedule-me.PNG)
     ```
-
+    ![alt text](./pictures/schedule-me.PNG)
+    ![](./pictures/schedule-me.PNG)
+  
 ## Credits
 
 JairoMacassi
