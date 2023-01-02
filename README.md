@@ -21,11 +21,8 @@ This project is deployed on any web browser so no installation is needed. just c
 
 This is the webpage of how the scheduler works. Also added some tasks that are saved into local storage
 
-    ```md
-    ![alt text](./pictures/schedule-me.PNG)
-    ```
-    ![alt text](./pictures/schedule-me.PNG)
-    ![](./pictures/schedule-me.PNG)
+![](schedule-me.PNG)
+
   
 ## Credits
 
